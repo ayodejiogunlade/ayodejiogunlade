@@ -5,13 +5,15 @@
 - <b>Machine Learning Project using Amazon SageMaker(AlgoExpert)</b>
   - [AWS SageMaker](https://github.com/ayodejiogunlade/ML-with-SageMaker)
 - <b>Launch a Drupal CMS with Amazone RDS Database</b>
-  - [AWS RDS](https://github.com/ayodejiogunlade/Drupal-Site-With-Amazon-RDS) <b><i>(Potentially NSFW)</b></i>
+  - [AWS RDS](https://github.com/ayodejiogunlade/Drupal-Site-With-Amazon-RDS)
 - <b>Boosting MySQL database performance with Amazon ElastiCache for Redis</b>
   - [AWS ElastiCache for Redis](https://github.com/ayodejiogunlade/Redis-ElastiCache4MySQL)
 
 <h2>📺 Website Projects</h2>
 
 - [Owambe Vendors is Nigeria's leading marketplace offering free advertisements for party vendors, helping businesses boost sales and providing comprehensive party planning services from start to finish.](https://owambevendors.com)
+- <b>Owambe Vendors(AlgoExpert)</b>
+  - [Classified Ad website](https://owambevendors.com) <b><i>(Owambe Vendors is Nigeria's leading marketplace offering free advertisements for party vendors, helping businesses boost sales and providing comprehensive party planning services from start to finish.)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
