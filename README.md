@@ -11,7 +11,6 @@
 
 <h2>📺 Website Projects</h2>
 
-- [Owambe Vendors is Nigeria's leading marketplace offering free advertisements for party vendors, helping businesses boost sales and providing comprehensive party planning services from start to finish.](https://owambevendors.com)
 - <b>Owambe Vendors(AlgoExpert)</b>
   - [Classified Ad website](https://owambevendors.com) <b><i>(Owambe Vendors is Nigeria's leading marketplace offering free advertisements for party vendors, helping businesses boost sales and providing comprehensive party planning services from start to finish.)</b></i>
 
