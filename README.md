@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 AWS Solutions Architect Projects:</h2>
 
-- <b>Machine Learning Project using Amazon SageMaker(AlgoExpert)</b>
+- <b>Machine Learning Project using Amazon SageMaker(Using Pretrained Models)</b>
   - [AWS SageMaker](https://github.com/ayodejiogunlade/ML-with-SageMaker)
 - <b>Launch a Drupal CMS with Amazone RDS Database</b>
   - [AWS RDS](https://github.com/ayodejiogunlade/Drupal-Site-With-Amazon-RDS)
@@ -11,8 +11,8 @@
 
 <h2>📺 Website Projects</h2>
 
-- <b>Owambe Vendors(AlgoExpert)</b>
-  - [Classified Ad website](https://owambevendors.com) <b><i>(Owambe Vendors is Nigeria's leading marketplace offering free advertisements for party vendors, helping businesses boost sales and providing comprehensive party planning services from start to finish.)</b></i>
+- <b>Owambe Vendors(Classified Ad Website)</b>
+  - [OwambeVendors.com](https://owambevendors.com) <b><i>(Owambe Vendors is Nigeria's leading marketplace offering free advertisements for party vendors, helping businesses boost sales and providing comprehensive party planning services from start to finish.)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
