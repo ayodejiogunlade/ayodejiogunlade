@@ -6,7 +6,7 @@
   - <b>Description:</b> A production-grade, cloud-native microservices platform built on AWS, featuring secure infrastructure-as-code (Terraform & CloudFormation), blue/green CI/CD, advanced monitoring, cost optimization, and robust migration/backup strategies. Includes real business logic, validation, logging, Prometheus metrics, chaos/ML stubs, and comprehensive documentation.
   - <b>Architecture Diagram:</b>
     <br/>
-    <img src="https://raw.githubusercontent.com/ayodejiogunlade/microservices/main/docs/infrastructure-diagram.puml.svg" alt="TechFlow Solutions AWS Architecture" width="700"/>
+    <img src="https://github.com/ayodejiogunlade/microservices/raw/main/docs/screenshots/architecture-diagram.png" alt="TechFlow Solutions AWS Architecture" width="700"/>
   - <b>Repository:</b> [TechFlow Solutions Microservices](https://github.com/ayodejiogunlade/microservices)
 
 <!--
